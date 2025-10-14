@@ -17,8 +17,8 @@ Demo Documentation – Screenshots and notes showing working implementations in 
 Contains Packet Tracer labs that demonstrate foundational and intermediate networking concepts aligned with CCNA topics.
 
 🔹 Key Projects
-Fundamentals: Connecting Devices, OSI Model, Life of a Packet
-LAN Switching: VLANs, STP/Rapid STP, EtherChannel
-Routing: Static Routes, EIGRP, OSPF, Floating Static Routes
-Services & Security: DHCP, DNS, NTP, ACLs, SSH
-Monitoring & Troubleshooting: Syslog, SNMP, CDP/LLDP
+Fundamentals: Connecting Devices, OSI Model, Life of a Packet  
+LAN Switching: VLANs, STP/Rapid STP, EtherChannel  
+Routing: Static Routes, EIGRP, OSPF, Floating Static Routes  
+Services & Security: DHCP, DNS, NTP, ACLs, SSH  
+Monitoring & Troubleshooting: Syslog, SNMP, CDP/LLDP  
